@@ -11,6 +11,10 @@ You will have to clone this repo which may require you to sighn into github and 
 
 3.) install git 
 
+4.) configure git
+``` git config user.name "ollieellis" ```
+``` git config user.email "ollieellis1@outlook.com" ```
+
 4.) clone the repo
 ``` git clone git@github.com:ollieellis/newPCwhoDis.git ```
 
